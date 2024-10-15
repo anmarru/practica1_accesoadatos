@@ -8,7 +8,7 @@ import java.util.List;
 
 public class GestorDeArchivo {
 
-    public static List<Cliente> lerrCliente()throws IOException {
+    public static List<Cliente> lerrCliente() {
 
         List<Cliente> listaCliente= new ArrayList<>();
 
